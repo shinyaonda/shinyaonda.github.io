@@ -1,0 +1,70 @@
+body {
+    background-image: url("background_so.jpg"); 
+  background-repeat: no-repeat;
+  background-attachment:fixed;
+}
+
+.container {
+    width:800px;
+    margin-left:50px;
+    margin-right:50px;
+    margin-bottom:50px;
+    background-color:rgba(255,255,255,0.55);
+    box-shadow: 10px 10px 10px -5px rgba(0, 0, 0, 0.6); 
+}
+
+
+h1{
+    margin-left:50px;
+    font-family:Adobe Caslon Pro Bold;
+    color:rgba(255,255,255,0.4);
+    font-weight: bold;
+}
+
+h2{
+    font-family:Adobe Caslon Pro Bold;
+}
+
+nav{
+    text-align: center;
+}
+
+ul li {
+    margin: 0 30px;
+    display: inline-block ;
+     box-shadow: 0px 5px 5px -5px rgba(0, 0, 0, 0.8); 
+}
+
+
+section {
+    padding: 0px -20px -20px;
+}
+
+.font{
+    font-weight: normal;
+}
+
+.underline {
+   border-bottom: 2px  solid black;
+   width:120px;
+}
+
+hr {
+border-width: 1px 0px 0px 0px;
+border-style: solid;
+border-color: #cccccc;
+height: 5px;
+}
+
+footer {
+    text-align: right;
+}
+
+.info{
+    font-weight: bold;
+}
+
+.name{
+    font-weight: bold;
+    font-size: 115%;
+}
